@@ -1,7 +1,4 @@
-Aquí tienes el **README.md completo en un solo bloque**, ya consolidado, listo para copiar y pegar directamente en tu repositorio GitHub `api-libros-demo`.
-Incluye todo el contenido del **Punto 11 del Manual de Buenas Prácticas DevOps** y las recomendaciones del manual sobre **CI/CD, seguridad, salud del servicio y manejo de secretos**.
 
----
 
 ````markdown
 # 📚 API Catálogo de Libros — FastAPI + Azure App Service + GitHub Actions
@@ -214,3 +211,4 @@ Las pruebas aseguran estabilidad antes del despliegue (principio **Shift-Left Te
 ¿Quieres que le agregue los **badges de estado** (✅ build passing, ☁️ deploy success y ❤️ health ok) en la parte superior del README?  
 Puedo generarte los enlaces exactos de GitHub Actions para mostrarlos dinámicamente.
 ```
+
